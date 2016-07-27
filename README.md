@@ -47,6 +47,9 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [GURU99](http://www.guru99.com/introduction-to-appium.html) - Appium tutorial for beginners
 - [QTPSELENIUM](http://qtpselenium.com/home/course/training/mobile-automation-appium-tutorial) - Appium tutorials
 - [Appium Bootcamp](https://saucelabs.com/resources/articles/appium-bootcamp-chapter-1) - Appium Bootcamp by Sauce
+- [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium)
+- [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest)
+- [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices
 
 ### Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison 
