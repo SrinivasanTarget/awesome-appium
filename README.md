@@ -10,7 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Server](#server)
 - [Clients](#clients)
-- [Inspectors](#inspector)
+- [Inspectors](#inspectors)
 - [Issues and Solutions](#issuesandsolutions)
 - [Git Books](#gitbooks)
 - [Blogs](#blogs)
@@ -18,7 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Server
 - [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open-source tool for automating native, mobile web, and hybrid applications on iOS and Android platforms.
 
-### Client
+### Clients
 Language/Framework | Github Repo and Installation Instructions |
 ----- | ----- |
 Ruby | [https://github.com/appium/ruby_lib](https://github.com/appium/ruby_lib)
@@ -38,6 +38,11 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server
 
 ### Issues and Solutions
+
+### Tutorials
+- [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS)
+- [GURU99](http://www.guru99.com/introduction-to-appium.html) - Appium tutorial for beginners
+- [QTPSELENIUM](http://qtpselenium.com/home/course/training/mobile-automation-appium-tutorial) - Appium tutorials
 
 ### Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison 
