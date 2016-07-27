@@ -39,6 +39,9 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 
 ### Issues and Solutions
 
+### Workshops
+- [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison 
+
 ### Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans
 - [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - A quick reference book on how to use Appium for automating Android Application using Java - Nishant Verma
