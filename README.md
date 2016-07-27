@@ -39,6 +39,8 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector
 
 ### Issues and Solutions
+- [java-client swipe issue](https://github.com/appium/java-client/issues/350) - solution - [java-client swipe PR](https://github.com/appium/java-client/pull/357)
+- [Appium Docker Enhancement](https://github.com/appium/tutorial/issues/11) - Docker Image issue thread
 
 ### Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS)
@@ -47,6 +49,14 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 
 ### Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison 
+
+### Cloud Solutions & DevOps
+- [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm
+- [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm
+- [Appium Docker Demo](https://github.com/vbanthia/appium-docker-demo) - Appium sample test running on real devices inside docker container
+- [Appium Docker File](https://github.com/aluedeke/appium-android) - DockerFile for Appium
+- [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium
+- [Dockerising Appium](http://shashikantjagtap.net/dockerising-appium-talk-at-appium-london-meetup/) - Dockerising Appium
 
 ### Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans
