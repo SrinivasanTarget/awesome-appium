@@ -53,6 +53,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 
 ### Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison 
+- [Appium Workshop VodQA by ThoughtWorks](https://github.com/saikrishna321/VodQa_MobileAutomationWorkShop) - Repo for Appium Workshop at VodQa by ThoughtWorks using java-client
 
 ### Cloud Solutions & DevOps
 - [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm
