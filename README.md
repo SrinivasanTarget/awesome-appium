@@ -69,6 +69,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - Appium Architecture
 - [All about Appium](https://en.wordpress.com/tag/appium/) - All about Appium in Wordpress
 - [Appium 1.5 TouchActions Example](https://medium.com/@scottdixon/appium-touch-examples-w-nodejs-ios-wd-ee2b9956aab1#.ve06j03ic) - Appium 1.5 touch example w/ NodeJS & WD - Scott Dixon
+- [Appium with Image Recognition](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.x19ffxwbk) - Appium with Image Recognition - Simon Kaz
 
 ## License
 
