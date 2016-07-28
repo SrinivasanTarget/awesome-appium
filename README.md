@@ -67,3 +67,9 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - A quick reference book on how to use Appium for automating Android Application using Java - Nishant Verma
 
 ### Blogs
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Srinivasan Sekar](https://github.com/SrinivasanTarget) has waived all copyright and related or neighboring rights to this work.
