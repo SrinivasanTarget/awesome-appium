@@ -50,6 +50,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium)
 - [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest)
 - [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices
+- [Appium with SikuliX](https://github.com/Simon-Kaz/AppiumFindByImage)-Appium Framework integrated with SikuliX API to provide Image Recognition capability.
 
 ### Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison 
