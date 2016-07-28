@@ -4,8 +4,6 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Work In Progress
-
 ## Resources
 
 - [Server](#server)
