@@ -67,6 +67,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - A quick reference book on how to use Appium for automating Android Application using Java - Nishant Verma
 
 ### Blogs
+- [Appium 1.5 TouchActions Example](https://medium.com/@scottdixon/appium-touch-examples-w-nodejs-ios-wd-ee2b9956aab1#.ve06j03ic) - Appium 1.5 touch example w/ NodeJS & WD - Scott Dixon
 
 ## License
 
