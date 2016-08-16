@@ -51,10 +51,11 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest)
 - [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices
 - [Appium Mobile Grid Setup](http://www.slideshare.net/justinison75/mobile-selenium-grid-setup) - The Mobile Grid – Getting Started for Android & iOS
-- [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) - Selenium Camp 2016 
+- [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) - Selenium Camp 2016
+- [Sikuppium] (https://github.com/dzaiats/appium-sikuli-driver) - Open source project which allows to mix Appium and Sikuli under one framework and easy manipulate by content and recognition of images. This is just a very nice helper in the automation testing to help test something that was left for manual visual testing. Now You can check without any problem in Your mobile automation project that correct Logo appears or correct photo is showed etc.
 
 ### Workshops
-- [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison 
+- [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison
 - [Appium Workshop VodQA by ThoughtWorks](https://github.com/saikrishna321/VodQa_MobileAutomationWorkShop) - Repo for Appium Workshop at VodQa by ThoughtWorks using java-client
 
 ### Cloud Solutions & DevOps
