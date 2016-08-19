@@ -16,7 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Blogs](#blogs)
 
 ### Server
-- [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open-source tool for automating native, mobile web, and hybrid applications on iOS and Android platforms.
+- [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web apps, tested on simulators (iOS, FirefoxOS), emulators (Android), and real devices (iOS, Android, Windows, FirefoxOS).
 
 ### Clients
 Language/Framework | Github Repo and Installation Instructions |
