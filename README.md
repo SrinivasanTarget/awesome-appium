@@ -64,6 +64,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
  - [Automated UI testing of a UWP app using Appium](https://medium.com/@yostane/automated-ui-testing-of-a-uwp-app-using-appium-dc10d8df6631#.3efp60w1j) - Windows Application driver makes UWP Apps compatible using Appium - Yassine benabbas
  - [Context Switching in Appium](https://medium.com/@kevinmarkvi/switching-to-a-dynamically-named-context-handle-with-appium-and-java-c78d2b972eb6#.2ylda6ul6) Switching to a Dynamically Named Context Handle with Appium and Java - Kevin Berg
  - [A Robot Should Be Running Your Appium Tests](https://medium.com/devs-foodit/iphone-automation-with-a-one-fingered-robot-a2936c840285#.l37adndb3) - Dan Cuellar
+ - [Appium Tests on Buddybuild](https://medium.com/@stipe.kolovrat/appium-cucumber-tests-up-running-on-buddybuild-8955a88ab589#.wsyazko3g) - Automates building, deploying and gathering feedback for mobile apps - Stipe Kolovrat
  
 
 ### Workshops
