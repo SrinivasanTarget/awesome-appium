@@ -75,6 +75,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
  - [Appium with Image Recognition](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.x19ffxwbk) - Appium with Image Recognition - Simon Kaz
  - [Automate Android Actions using Appium](http://testingalert.com/automate-android-actions-using-appium/) - Automate Android Actions using Appium - kkashyap1707
  - [Network Connection in Appium](https://medium.com/@eliasnogueira/how-to-deal-with-network-connection-in-appium-4-0-0-2134021fac25#.z5dfdv2jg) - How to deal with Network Connection from Appium 4.0.0 - Elias Nogueira
+ - [How to change language in Appium](https://medium.com/@eliasnogueira/appium-tips-changing-the-app-language-f0a1762dd927#.68mvqisri) - Appium Tips — Changing the app Language - Elias Nogueira
 
 ## License
 
