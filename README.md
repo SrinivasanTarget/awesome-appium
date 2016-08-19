@@ -53,6 +53,18 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [Appium Mobile Grid Setup](http://www.slideshare.net/justinison75/mobile-selenium-grid-setup) - The Mobile Grid – Getting Started for Android & iOS
 - [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) - Selenium Camp 2016 
 
+### Blogs
+ - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - Appium Architecture
+ - [All about Appium](https://en.wordpress.com/tag/appium/) - All about Appium in Wordpress
+ - [Appium 1.5 TouchActions Example](https://medium.com/@scottdixon/appium-touch-examples-w-nodejs-ios-wd-ee2b9956aab1#.ve06j03ic) - Appium 1.5 touch example w/ NodeJS & WD - Scott Dixon
+ - [Appium with Image Recognition](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.x19ffxwbk) - Appium with Image Recognition - Simon Kaz
+ - [Automate Android Actions using Appium](http://testingalert.com/automate-android-actions-using-appium/) - Automate Android Actions using Appium - kkashyap1707
+ - [Network Connection in Appium](https://medium.com/@eliasnogueira/how-to-deal-with-network-connection-in-appium-4-0-0-2134021fac25#.z5dfdv2jg) - How to deal with Network Connection from Appium 4.0.0 - Elias Nogueira
+ - [How to change language in Appium](https://medium.com/@eliasnogueira/appium-tips-changing-the-app-language-f0a1762dd927#.68mvqisri) - Appium Tips — Changing the app Language - Elias Nogueira
+ - [Automated UI testing of a UWP app using Appium](https://medium.com/@yostane/automated-ui-testing-of-a-uwp-app-using-appium-dc10d8df6631#.3efp60w1j) - Windows Application driver makes UWP Apps compatible using Appium - Yassine benabbas
+ - [Context Switching in Appium](https://medium.com/@kevinmarkvi/switching-to-a-dynamically-named-context-handle-with-appium-and-java-c78d2b972eb6#.2ylda6ul6) Switching to a Dynamically Named Context Handle with Appium and Java - Kevin Berg
+ 
+
 ### Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison 
 
@@ -67,17 +79,6 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 ### Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans
 - [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - A quick reference book on how to use Appium for automating Android Application using Java - Nishant Verma
-
- ### Blogs
- - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - Appium Architecture
- - [All about Appium](https://en.wordpress.com/tag/appium/) - All about Appium in Wordpress
- - [Appium 1.5 TouchActions Example](https://medium.com/@scottdixon/appium-touch-examples-w-nodejs-ios-wd-ee2b9956aab1#.ve06j03ic) - Appium 1.5 touch example w/ NodeJS & WD - Scott Dixon
- - [Appium with Image Recognition](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.x19ffxwbk) - Appium with Image Recognition - Simon Kaz
- - [Automate Android Actions using Appium](http://testingalert.com/automate-android-actions-using-appium/) - Automate Android Actions using Appium - kkashyap1707
- - [Network Connection in Appium](https://medium.com/@eliasnogueira/how-to-deal-with-network-connection-in-appium-4-0-0-2134021fac25#.z5dfdv2jg) - How to deal with Network Connection from Appium 4.0.0 - Elias Nogueira
- - [How to change language in Appium](https://medium.com/@eliasnogueira/appium-tips-changing-the-app-language-f0a1762dd927#.68mvqisri) - Appium Tips — Changing the app Language - Elias Nogueira
- - [Automated UI testing of a UWP app using Appium](https://medium.com/@yostane/automated-ui-testing-of-a-uwp-app-using-appium-dc10d8df6631#.3efp60w1j) - Windows Application driver makes UWP Apps compatible using Appium - Yassine benabbas
- - [Context Switching in Appium](https://medium.com/@kevinmarkvi/switching-to-a-dynamically-named-context-handle-with-appium-and-java-c78d2b972eb6#.2ylda6ul6) Switching to a Dynamically Named Context Handle with Appium and Java - Kevin Berg
 
 ## License
 
