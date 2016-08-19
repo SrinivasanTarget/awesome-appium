@@ -74,6 +74,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
  - [Appium 1.5 TouchActions Example](https://medium.com/@scottdixon/appium-touch-examples-w-nodejs-ios-wd-ee2b9956aab1#.ve06j03ic) - Appium 1.5 touch example w/ NodeJS & WD - Scott Dixon
  - [Appium with Image Recognition](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.x19ffxwbk) - Appium with Image Recognition - Simon Kaz
  - [Automate Android Actions using Appium](http://testingalert.com/automate-android-actions-using-appium/) - Automate Android Actions using Appium - kkashyap1707
+ - [Network Connection in Appium](https://medium.com/@eliasnogueira/how-to-deal-with-network-connection-in-appium-4-0-0-2134021fac25#.z5dfdv2jg) - How to deal with Network Connection from Appium 4.0.0 - Elias Nogueira
 
 ## License
 
