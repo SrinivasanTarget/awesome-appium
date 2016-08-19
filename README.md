@@ -48,6 +48,8 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium)
 - [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest)
 - [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices
+- [Appium Mobile Grid Setup](http://www.slideshare.net/justinison75/mobile-selenium-grid-setup) - The Mobile Grid – Getting Started for Android & iOS
+- [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) - Selenium Camp 2016 
 
 ### Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison 
