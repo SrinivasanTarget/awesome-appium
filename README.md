@@ -77,6 +77,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
  - [Network Connection in Appium](https://medium.com/@eliasnogueira/how-to-deal-with-network-connection-in-appium-4-0-0-2134021fac25#.z5dfdv2jg) - How to deal with Network Connection from Appium 4.0.0 - Elias Nogueira
  - [How to change language in Appium](https://medium.com/@eliasnogueira/appium-tips-changing-the-app-language-f0a1762dd927#.68mvqisri) - Appium Tips — Changing the app Language - Elias Nogueira
  - [Automated UI testing of a UWP app using Appium](https://medium.com/@yostane/automated-ui-testing-of-a-uwp-app-using-appium-dc10d8df6631#.3efp60w1j) - Windows Application driver makes UWP Apps compatible using Appium - Yassine benabbas
+ - [Context Switching in Appium](https://medium.com/@kevinmarkvi/switching-to-a-dynamically-named-context-handle-with-appium-and-java-c78d2b972eb6#.2ylda6ul6) Switching to a Dynamically Named Context Handle with Appium and Java - Kevin Berg
 
 ## License
 
