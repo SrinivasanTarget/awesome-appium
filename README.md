@@ -2,6 +2,8 @@
 
 > A curated list of delightful [Appium](http://appium.io/) [resources](#resources).
 
+Feel free to add links via PRs and file issues to start discussions.
+
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
