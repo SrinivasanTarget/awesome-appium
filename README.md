@@ -6,14 +6,17 @@ Feel free to add links via PRs and file issues to start discussions.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Resources
+## Contents
 
 - [Server](#server)
 - [Clients](#clients)
 - [Inspectors](#inspectors)
-- [Issues and Solutions](#issuesandsolutions)
-- [Git Books](#gitbooks)
+- [Issues and Solutions](#issues and solutions)
+- [Tutorials](#tutorials)
 - [Blogs](#blogs)
+- [Workshops](#workshops)
+- [Cloud Solutions and Devops](#cloud solutions and devops)
+- [Git Books](#gitbooks)
 
 ### Server
 - [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web apps, tested on simulators (iOS, FirefoxOS), emulators (Android), and real devices (iOS, Android, Windows, FirefoxOS).
