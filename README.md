@@ -77,7 +77,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 ## Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison 
 
-### Cloud Solutions & DevOps
+## Cloud Solutions & DevOps
 - [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm
 - [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm
 - [Appium Docker Demo](https://github.com/vbanthia/appium-docker-demo) - Appium sample test running on real devices inside docker container
