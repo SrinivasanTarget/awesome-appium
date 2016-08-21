@@ -19,6 +19,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Workshops](#workshops)
 - [Cloud Solutions and Devops](#cloud solutions and devops)
 - [Git Books](#gitbooks)
+- [Community](#community)
+- [Tips](#tips)
 
 ## Server
 - [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web apps, tested on simulators (iOS, FirefoxOS), emulators (Android), and real devices (iOS, Android, Windows, FirefoxOS).
@@ -86,6 +88,21 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 ## Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans
 - [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - A quick reference book on how to use Appium for automating Android Application using Java - Nishant Verma
+
+## Community
+- [Discuss](https://discuss.appium.io)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/appium)
+- [`@appiumdevs` on Twitter](https://twitter.com/AppiumDevs)
+- [`#appium` on Slack](http://appium.slack.com)
+
+## Tips
+
+Contribute some ;)
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
 
