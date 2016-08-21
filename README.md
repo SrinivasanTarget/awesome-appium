@@ -1,5 +1,7 @@
 # Awesome Appium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/SrinivasanTarget/awesome-appium.svg?branch=master)](https://travis-ci.org/SrinivasanTarget/awesome-appium)
 
+[<img src="https://avatars3.githubusercontent.com/u/3221291?v=3&s=200" align="right" width="100">](http://appium.io)
+
 > A curated list of delightful [Appium](http://appium.io/) [resources](#resources).
 
 Feel free to add links via PRs and file issues to start discussions.
@@ -18,10 +20,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cloud Solutions and Devops](#cloud solutions and devops)
 - [Git Books](#gitbooks)
 
-### Server
+## Server
 - [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web apps, tested on simulators (iOS, FirefoxOS), emulators (Android), and real devices (iOS, Android, Windows, FirefoxOS).
 
-### Clients
+## Clients
 Language/Framework | Github Repo and Installation Instructions |
 ----- | ----- |
 Ruby | [https://github.com/appium/ruby_lib](https://github.com/appium/ruby_lib)
@@ -33,7 +35,7 @@ PHP | [https://github.com/appium/php-client](https://github.com/appium/php-clien
 C# (.NET) | [https://github.com/appium/appium-dotnet-driver](https://github.com/appium/appium-dotnet-driver)
 RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](https://github.com/jollychang/robotframework-appiumlibrary)
 
-### Inspectors
+## Inspectors
 - [Appium Desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux
 - [Appium dot app](https://bitbucket.org/appium/appium.app/downloads/) - The Mac GUI for Appium
 - [Appium dot exe](https://bitbucket.org/appium/appium.app/downloads/) - The Windows GUI for Appium
@@ -41,11 +43,11 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server
 - [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector
 
-### Issues and Solutions
+## Issues and Solutions
 - [java-client swipe issue](https://github.com/appium/java-client/issues/350) - solution - [java-client swipe PR](https://github.com/appium/java-client/pull/357)
 - [Appium Docker Enhancement](https://github.com/appium/tutorial/issues/11) - Docker Image issue thread
 
-### Tutorials
+## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS)
 - [GURU99](http://www.guru99.com/introduction-to-appium.html) - Appium tutorial for beginners
 - [QTPSELENIUM](http://qtpselenium.com/home/course/training/mobile-automation-appium-tutorial) - Appium tutorials
@@ -56,7 +58,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [Appium Mobile Grid Setup](http://www.slideshare.net/justinison75/mobile-selenium-grid-setup) - The Mobile Grid – Getting Started for Android & iOS
 - [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) - Selenium Camp 2016 
 
-### Blogs
+## Blogs
  - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - Appium Architecture
  - [All about Appium](https://en.wordpress.com/tag/appium/) - All about Appium in Wordpress
  - [Appium 1.5 TouchActions Example](https://medium.com/@scottdixon/appium-touch-examples-w-nodejs-ios-wd-ee2b9956aab1#.ve06j03ic) - Appium 1.5 touch example w/ NodeJS & WD - Scott Dixon
@@ -70,7 +72,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
  - [Appium Tests on Buddybuild](https://medium.com/@stipe.kolovrat/appium-cucumber-tests-up-running-on-buddybuild-8955a88ab589#.wsyazko3g) - Automates building, deploying and gathering feedback for mobile apps - Stipe Kolovrat
  
 
-### Workshops
+## Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison 
 
 ### Cloud Solutions & DevOps
@@ -81,7 +83,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium
 - [Dockerising Appium](http://shashikantjagtap.net/dockerising-appium-talk-at-appium-london-meetup/) - Dockerising Appium
 
-### Git Books
+## Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans
 - [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - A quick reference book on how to use Appium for automating Android Application using Java - Nishant Verma
 
