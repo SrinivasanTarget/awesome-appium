@@ -44,6 +44,7 @@ RobotFramework | [https://github.com/jollychang/robotframework-appiumlibrary](ht
 - [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator
 - [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server
 - [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector
+- [app-inspector](https://github.com/macacajs/app-inspector) - macacajs App Inspector
 
 ## Issues and Solutions
 - [java-client swipe issue](https://github.com/appium/java-client/issues/350) - solution - [java-client swipe PR](https://github.com/appium/java-client/pull/357)
