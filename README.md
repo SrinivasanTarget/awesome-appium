@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Ruby](https://github.com/appium/ruby_lib)
 - [Python](https://github.com/appium/python-client)
 - [Java](https://github.com/appium/java-client)
-- [JavaScript](https://github.com/admc/wd)
+- [JavaScript](http://webdriver.io/)
 - [Objective C](https://github.com/appium/selenium-objective-c)
 - [PHP](https://github.com/appium/php-client)
 - [C# (.NET)](https://github.com/appium/appium-dotnet-driver)
