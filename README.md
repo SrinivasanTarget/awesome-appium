@@ -72,7 +72,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Context Switching in Appium](https://medium.com/@kevinmarkvi/switching-to-a-dynamically-named-context-handle-with-appium-and-java-c78d2b972eb6#.2ylda6ul6) Switching to a Dynamically Named Context Handle with Appium and Java - Kevin Berg.
  - [A Robot Should Be Running Your Appium Tests](https://medium.com/devs-foodit/iphone-automation-with-a-one-fingered-robot-a2936c840285#.l37adndb3) - How to run Appium Tests using Robots. - Dan Cuellar.
  - [Appium Tests on Buddybuild](https://medium.com/@stipe.kolovrat/appium-cucumber-tests-up-running-on-buddybuild-8955a88ab589#.wsyazko3g) - Automates building, deploying and gathering feedback for mobile apps - Stipe Kolovrat.
- 
+ - [Advance Appium Setup](https://help.testobject.com/docs/guides/appium-advanced-setup/) - Advanced Appium Test Setup with PageObject
+
 
 ## Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison.
@@ -84,6 +85,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appium Docker File](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android.
 - [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
 - [Dockerising Appium](http://shashikantjagtap.net/dockerising-appium-talk-at-appium-london-meetup/) - Dockerising Appium.
+- [Docker Appium with multiple SDK's](https://github.com/SrinivasanTarget/docker-appium) - DockerFile for Appium Android
 
 ## Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans.
