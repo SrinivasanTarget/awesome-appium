@@ -74,6 +74,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Appium Tests on Buddybuild](https://medium.com/@stipe.kolovrat/appium-cucumber-tests-up-running-on-buddybuild-8955a88ab589#.wsyazko3g) - Automates building, deploying and gathering feedback for mobile apps - Stipe Kolovrat.
  - [Advance Appium Setup](https://help.testobject.com/docs/guides/appium-advanced-setup/) - Advanced Appium Test Setup with PageObject
  - [Android setup Linux](https://www.smashingmagazine.com/2016/04/from-zero-to-appium-guide-configuring-appium-android/) - From Zero To Appium: A How-To Guide For Configuring Appium With Android
+ - [Useful Appium Series] (http://bitbar.com/tag/appium/) - Appium Tip Series
 
 
 ## Workshops
