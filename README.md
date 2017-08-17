@@ -84,7 +84,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appium Docker Demo](https://github.com/vbanthia/appium-docker-demo) - Appium sample test running on real devices inside docker container.
 - [Appium Docker File](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android.
 - [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
-- [Dockerising Appium](http://shashikantjagtap.net/dockerising-appium-talk-at-appium-london-meetup/) - Dockerising Appium.
 - [Docker Appium with multiple SDK's](https://github.com/SrinivasanTarget/docker-appium) - DockerFile for Appium Android
 
 ## Git Books
