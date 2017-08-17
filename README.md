@@ -81,10 +81,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Cloud Solutions & DevOps
 - [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm.
 - [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm.
-- [Appium Docker Demo](https://github.com/vbanthia/appium-docker-demo) - Appium sample test running on real devices inside docker container.
+- [Official Appium Docker Images](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices.
+- [Appium Docker Images](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android.
 - [Appium Docker File](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android.
 - [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
-- [Docker Appium with multiple SDK's](https://github.com/SrinivasanTarget/docker-appium) - DockerFile for Appium Android
 
 ## Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans.
