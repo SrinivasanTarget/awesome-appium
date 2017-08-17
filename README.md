@@ -13,7 +13,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Server](#server)
 - [Clients](#clients)
 - [Inspectors](#inspectors)
-- [Issues and Solutions](#issues-and-solutions)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
 - [Workshops](#workshops)
@@ -23,7 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Tips](#tips)
 
 ## Server
-- [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web apps, tested on simulators (iOS, FirefoxOS), emulators (Android), and real devices (iOS, Android, Windows, FirefoxOS).
+- [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
 
 ## Clients
 - [Ruby](https://github.com/appium/ruby_lib)
@@ -37,16 +36,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Inspectors
 - [Appium Desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux.
-- [Appium dot app](https://bitbucket.org/appium/appium.app/downloads/) - The Mac GUI for Appium.
-- [Appium dot exe](https://bitbucket.org/appium/appium.app/downloads/) - The Windows GUI for Appium.
 - [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 - [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server.
 - [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector.
 - [app-inspector](https://github.com/macacajs/app-inspector) - Macacajs App Inspector.
-
-## Issues and Solutions
-- [Java-client Swipe Issue](https://github.com/appium/java-client/issues/350) - [Solution is available here.](https://github.com/appium/java-client/pull/357)
-- [Appium Docker Enhancement](https://github.com/appium/tutorial/issues/11) - Docker Image issue thread.
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
@@ -61,6 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) - Selenium Camp 2016.
 
 ## Blogs
+ - [Appium Architecture & Appium Desktop](https://www.zaizi.com/blog/appium-mobile-apps-automation-tool) - Appium Architecture, settings, etc (Updated)
  - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - Architecture of Appium.
  - [All about Appium](https://en.wordpress.com/tag/appium/) - All about Appium in Wordpress.
  - [Appium 1.5 TouchActions Example](https://medium.com/@scottdixon/appium-touch-examples-w-nodejs-ios-wd-ee2b9956aab1#.ve06j03ic) - Appium 1.5 touch example w/ NodeJS & WD - Scott Dixon.
