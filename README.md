@@ -18,6 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Workshops](#workshops)
 - [Cloud Solutions and Devops](#cloud-solutions-and-devops)
 - [Git Books](#gitbooks)
+- [Test Frameworks](#test-frameworks)
 - [Community](#community)
 - [Tips](#tips)
 
