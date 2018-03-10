@@ -49,7 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Running arbitrary ADB commands via Appium](https://appiumpro.com/editions/3)
 - [Using Appium for Testing Mobile Web Apps](https://appiumpro.com/editions/4)
 - [Performance Testing of Android Apps](https://appiumpro.com/editions/5)
-- [Testing iOS App Upgrades](https://appiumpro.com/editions/5)
+- [Testing iOS App Upgrades](https://appiumpro.com/editions/6)
 - [Speeding Up Tests With Deep Links](https://appiumpro.com/editions/7)
 - [How to Find Elements in iOS (Not) By XPath](https://appiumpro.com/editions/8)
 
