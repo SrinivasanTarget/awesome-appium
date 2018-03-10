@@ -14,6 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Clients](#clients)
 - [Inspectors](#inspectors)
 - [Tutorials](#tutorials)
+- [Appium Pro](#Become_an_Appium_Pro)
 - [Blogs](#blogs)
 - [Workshops](#workshops)
 - [Cloud Solutions and Devops](#cloud-solutions-and-devops)
@@ -41,6 +42,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server.
 - [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector.
 - [app-inspector](https://github.com/macacajs/app-inspector) - Macacajs App Inspector.
+
+## Become an Appium Pro
+- [Seeding the iOS simulator with test photos](https://appiumpro.com/editions/1)
+- [Seeding an Android device with test photos](https://appiumpro.com/editions/2)
+- [Running arbitrary ADB commands via Appium](https://appiumpro.com/editions/3)
+- [Using Appium for Testing Mobile Web Apps](https://appiumpro.com/editions/4)
+- [Performance Testing of Android Apps](https://appiumpro.com/editions/5)
+- [Testing iOS App Upgrades](https://appiumpro.com/editions/5)
+- [Speeding Up Tests With Deep Links](https://appiumpro.com/editions/6)
+- [How to Find Elements in iOS (Not) By XPath](https://appiumpro.com/editions/7)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
