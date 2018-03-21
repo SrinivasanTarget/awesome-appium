@@ -52,6 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Testing iOS App Upgrades](https://appiumpro.com/editions/6)
 - [Speeding Up Tests With Deep Links](https://appiumpro.com/editions/7)
 - [How to Find Elements in iOS (Not) By XPath](https://appiumpro.com/editions/8)
+- [Testing Android App Upgrades](https://appiumpro.com/editions/9)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
