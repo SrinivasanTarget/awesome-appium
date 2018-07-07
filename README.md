@@ -53,6 +53,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Speeding Up Tests With Deep Links](https://appiumpro.com/editions/7)
 - [How to Find Elements in iOS (Not) By XPath](https://appiumpro.com/editions/8)
 - [Testing Android App Upgrades](https://appiumpro.com/editions/9)
+- [Anatomy of Logging in Appium](https://appiumpro.com/editions/10)
+- [Simulating SMS Messages on Android](https://appiumpro.com/editions/11)
+- [Capturing Performance Data for Native iOS Apps](https://appiumpro.com/editions/12)
+- [Switching Between iOS Apps During a Test](https://appiumpro.com/editions/13)
+- [How to Automate a Pop Rock Band](https://appiumpro.com/editions/14)
+- [Testing iOS Push Notifications](https://appiumpro.com/editions/15)
+- [Automating the Clipboard on iOS and Android](https://appiumpro.com/editions/16)
+- [Automating Cross-Platform Hybrid Apps](https://appiumpro.com/editions/17)
+- [Using Espresso With Appium](https://appiumpro.com/editions/18)
+- [Making Your Appium Tests Fast and Reliable, Part 1: Test Flakiness](https://appiumpro.com/editions/19)
+- [Making Your Appium Tests Fast and Reliable, Part 2: Finding Elements](https://appiumpro.com/editions/20)
+- [Making Your Appium Tests Fast and Reliable, Part 3: Waiting for App States](https://appiumpro.com/editions/21)
+- [Making Your Appium Tests Fast and Reliable, Part 4: Dealing With Unfindable Elements](https://appiumpro.com/editions/22)
+- [Making Your Appium Tests Fast and Reliable, Part 5: Setting Up App State](https://appiumpro.com/editions/23)
+- [Making Your Appium Tests Fast and Reliable, Part 6: Tuning Your Capabilities](https://appiumpro.com/editions/24)
+
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
