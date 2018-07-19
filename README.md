@@ -69,6 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Making Your Appium Tests Fast and Reliable, Part 5: Setting Up App State](https://appiumpro.com/editions/23)
 - [Making Your Appium Tests Fast and Reliable, Part 6: Tuning Your Capabilities](https://appiumpro.com/editions/24)
 - [Making Your Appium Tests Fast and Reliable, Part 7: Disabling Animations](https://appiumpro.com/editions/25)
+- [Making Your Appium Tests Fast and Reliable, Part 8: Mocking External Services](https://appiumpro.com/editions/26)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
