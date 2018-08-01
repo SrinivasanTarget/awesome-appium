@@ -71,6 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Making Your Appium Tests Fast and Reliable, Part 7: Disabling Animations](https://appiumpro.com/editions/25)
 - [Making Your Appium Tests Fast and Reliable, Part 8: Mocking External Services](https://appiumpro.com/editions/26)
 - [Making Your Appium Tests Fast and Reliable, Part 9: When Things Go Wrong](https://appiumpro.com/editions/27)
+- [Running Multiple Appium Tests in Parallel](https://appiumpro.com/editions/28)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
