@@ -95,7 +95,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Context Switching in Appium](https://medium.com/@kevinmarkvi/switching-to-a-dynamically-named-context-handle-with-appium-and-java-c78d2b972eb6#.2ylda6ul6) Switching to a Dynamically Named Context Handle with Appium and Java - Kevin Berg.
  - [A Robot Should Be Running Your Appium Tests](https://medium.com/devs-foodit/iphone-automation-with-a-one-fingered-robot-a2936c840285#.l37adndb3) - How to run Appium Tests using Robots. - Dan Cuellar.
  - [Appium Tests on Buddybuild](https://medium.com/@stipe.kolovrat/appium-cucumber-tests-up-running-on-buddybuild-8955a88ab589#.wsyazko3g) - Automates building, deploying and gathering feedback for mobile apps - Stipe Kolovrat.
- - [Advance Appium Setup](https://help.testobject.com/docs/guides/appium-advanced-setup/) - Advanced Appium Test Setup with PageObject
  - [Android setup Linux](https://www.smashingmagazine.com/2016/04/from-zero-to-appium-guide-configuring-appium-android/) - From Zero To Appium: A How-To Guide For Configuring Appium With Android
  - [Useful Appium Series] (http://bitbar.com/tag/appium/) - Appium Tip Series
  - [Inspect iOS app's with Appium 1.6] (https://medium.com/@chenchaoyi/the-options-of-inspecting-ios-10-app-with-appium-1-6-534ba166b958#.ezq1q0iuo) - The options of inspecting iOS 10 app with Appium 1.6
