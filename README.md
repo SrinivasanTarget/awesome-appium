@@ -74,6 +74,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Running Multiple Appium Tests in Parallel](https://appiumpro.com/editions/28)
 - [Automating Complex Gestures with the W3C Actions API](https://appiumpro.com/editions/29)
 - [iOS-Specific Touch Action Methods](https://appiumpro.com/editions/30)
+- [Automating Custom Alert Buttons on iOS](https://appiumpro.com/editions/31)
+- [Finding Elements By Image, Part 1](https://appiumpro.com/editions/32)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
