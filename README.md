@@ -77,6 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Automating Custom Alert Buttons on iOS](https://appiumpro.com/editions/31)
 - [Finding Elements By Image, Part 1](https://appiumpro.com/editions/32)
 - [Finding Elements By Image, Part 2](https://appiumpro.com/editions/33)
+- [Simulating Hardware Keys And Key Events On Android](https://appiumpro.com/editions/34)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
