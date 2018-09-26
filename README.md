@@ -78,6 +78,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Finding Elements By Image, Part 1](https://appiumpro.com/editions/32)
 - [Finding Elements By Image, Part 2](https://appiumpro.com/editions/33)
 - [Simulating Hardware Keys And Key Events On Android](https://appiumpro.com/editions/34)
+- [Writing XPath Queries That Work](https://appiumpro.com/editions/35)
+- [Using The 'nativeWebTap' Capability](https://appiumpro.com/editions/36)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
