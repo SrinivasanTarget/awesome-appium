@@ -80,6 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Simulating Hardware Keys And Key Events On Android](https://appiumpro.com/editions/34)
 - [Writing XPath Queries That Work](https://appiumpro.com/editions/35)
 - [Using The 'nativeWebTap' Capability](https://appiumpro.com/editions/36)
+- [Capturing Browser Errors and Logs in iOS Web/Hybrid Apps](https://appiumpro.com/editions/37)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
