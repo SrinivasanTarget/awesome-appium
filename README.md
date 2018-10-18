@@ -81,6 +81,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Writing XPath Queries That Work](https://appiumpro.com/editions/35)
 - [Using The 'nativeWebTap' Capability](https://appiumpro.com/editions/36)
 - [Capturing Browser Errors and Logs in iOS Web/Hybrid Apps](https://appiumpro.com/editions/37)
+- [Capturing Browser Errors and Logs in Android Web/Hybrid Apps](https://appiumpro.com/editions/38)
+- [Early-Stage AI for Appium Test Automation](https://appiumpro.com/editions/39)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
