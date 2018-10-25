@@ -83,6 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Capturing Browser Errors and Logs in iOS Web/Hybrid Apps](https://appiumpro.com/editions/37)
 - [Capturing Browser Errors and Logs in Android Web/Hybrid Apps](https://appiumpro.com/editions/38)
 - [Early-Stage AI for Appium Test Automation](https://appiumpro.com/editions/39)
+- [How To Test On Real iOS Devices With Appium, Part 1](https://appiumpro.com/editions/40)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
