@@ -115,6 +115,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [WinAppDriver](http://www.hanselman.com/blog/WinAppDriverTestAnyAppWithAppiumsSeleniumlikeTestsOnWindows.aspx) - WinAppDriver - Test any app with Appium's Selenium-like tests on Windows
  - [IMAGE RECOGNITION WITH APPIUM](http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/) - USING APPIUM FOR MOBILE GAME TESTING
  - [Uncover invisible changes in automated tests](https://sourcediving.com/how-to-uncover-invisible-changes-in-automated-tests-b6a5dbff564e) - By KazuCocoa
+  - [Adding AI to Appium](https://medium.com/testdotai/adding-ai-to-appium-f8db38ea4fac) - By test.ai
+ 
 
 ## Workshops
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison.
