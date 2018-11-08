@@ -85,6 +85,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Early-Stage AI for Appium Test Automation](https://appiumpro.com/editions/39)
 - [How To Test On Real iOS Devices With Appium, Part 1](https://appiumpro.com/editions/40)
 - [How To Test Real iOS Devices With Appium, Part 2](https://appiumpro.com/editions/41)
+- [Simulating Incoming Phone Calls On Android](https://appiumpro.com/editions/42)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
