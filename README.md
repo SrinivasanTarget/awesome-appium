@@ -87,6 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [How To Test Real iOS Devices With Appium, Part 2](https://appiumpro.com/editions/41)
 - [Simulating Incoming Phone Calls On Android](https://appiumpro.com/editions/42)
 - [How To Automatically Grant iOS App Permissions Using Appium](https://appiumpro.com/editions/43)
+- [Working With Web Components (Shadow DOM)](https://appiumpro.com/editions/44)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
