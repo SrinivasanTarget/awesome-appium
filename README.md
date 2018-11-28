@@ -88,6 +88,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Simulating Incoming Phone Calls On Android](https://appiumpro.com/editions/42)
 - [How To Automatically Grant iOS App Permissions Using Appium](https://appiumpro.com/editions/43)
 - [Working With Web Components (Shadow DOM)](https://appiumpro.com/editions/44)
+- [How to Automate Siri Voice Commands Using Appium](https://appiumpro.com/editions/45)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
