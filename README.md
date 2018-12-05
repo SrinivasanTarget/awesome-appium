@@ -89,6 +89,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [How To Automatically Grant iOS App Permissions Using Appium](https://appiumpro.com/editions/43)
 - [Working With Web Components (Shadow DOM)](https://appiumpro.com/editions/44)
 - [How to Automate Siri Voice Commands Using Appium](https://appiumpro.com/editions/45)
+- [Sending Arbitrary Keystrokes With The Actions API](https://appiumpro.com/editions/46)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
