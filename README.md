@@ -91,6 +91,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [How to Automate Siri Voice Commands Using Appium](https://appiumpro.com/editions/45)
 - [Sending Arbitrary Keystrokes With The Actions API](https://appiumpro.com/editions/46)
 - [Running Appium From Source (Or The Latest Beta)](https://appiumpro.com/editions/47)
+- [How To Flash Elements On Screen While Debugging Appium Tests](https://appiumpro.com/editions/48)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
