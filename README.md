@@ -94,6 +94,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [How To Flash Elements On Screen While Debugging Appium Tests](https://appiumpro.com/editions/48)
 - [How To Spread Some Holiday Cheer Using Appium](https://appiumpro.com/editions/49)
 - [Special Capabilities for Speeding up Android Test Initialization](https://appiumpro.com/editions/50)
+- [Calling Methods Inside Your App From Appium](https://appiumpro.com/editions/51)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
