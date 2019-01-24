@@ -96,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Special Capabilities for Speeding up Android Test Initialization](https://appiumpro.com/editions/50)
 - [Calling Methods Inside Your App From Appium](https://appiumpro.com/editions/51)
 - [Automating Mac Apps with Appium](https://appiumpro.com/editions/52)
+- [Accessing Android Logcat Logs with Appium](https://appiumpro.com/editions/53)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
