@@ -97,6 +97,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Calling Methods Inside Your App From Appium](https://appiumpro.com/editions/51)
 - [Automating Mac Apps with Appium](https://appiumpro.com/editions/52)
 - [Accessing Android Logcat Logs with Appium](https://appiumpro.com/editions/53)
+- [Using Appium With Selenium Grid](https://appiumpro.com/editions/54)
+- [Using Mobile Execution Commands to Continuously Stream Device Logs with Appium](https://appiumpro.com/editions/55)
+- [What Appium Users Need to Know about Android Activities and Intents](https://appiumpro.com/editions/56)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
