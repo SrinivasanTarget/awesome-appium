@@ -110,6 +110,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Validating Android Toast Messages](https://appiumpro.com/editions/64)
 - [Capturing Network Traffic in Java with Appium](https://appiumpro.com/editions/65)
 - [Automating System Apps with Appium](https://appiumpro.com/editions/66)
+- [Generating Touch Gestures to Zoom In and Out on Google Maps](https://appiumpro.com/editions/67)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
