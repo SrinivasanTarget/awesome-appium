@@ -113,6 +113,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Generating Touch Gestures to Zoom In and Out on Google Maps](https://appiumpro.com/editions/67)
 - [Automating Physical Buttons on iOS Devices](https://appiumpro.com/editions/68)
 - [Capturing Audio Output During Testing: Part 1](https://appiumpro.com/editions/69)
+- [Capturing Audio Output During Testing: Part 2](https://appiumpro.com/editions/70)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
