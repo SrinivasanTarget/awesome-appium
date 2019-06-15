@@ -116,6 +116,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Capturing Audio Output During Testing: Part 2](https://appiumpro.com/editions/70)
 - [Starting an Appium Server Programmatically Using AppiumServiceBuilder](https://appiumpro.com/editions/71)
 - [Simulating Slow Internet Connections on Android Emulators with Appium](https://appiumpro.com/editions/72)
+- [Working with Multile Webviews in Android Hybrid Apps](https://appiumpro.com/editions/73)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
