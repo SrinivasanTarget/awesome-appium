@@ -121,6 +121,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Automating Custom IoT Devices With Appium, Part 2](https://appiumpro.com/editions/75)
 - [Testing React Native Apps with Appium](https://appiumpro.com/editions/76)
 - [Optimizing WebDriverAgent Startup Performance](https://appiumpro.com/editions/77)
+- [Attaching Appium Clients to Existing Sessions](https://appiumpro.com/editions/78)
+- [Converting Java Tests to Kotlin](https://appiumpro.com/editions/79)
+- [Testing iOS Face ID with Appium](https://appiumpro.com/editions/80)
+- [Testing Windows Desktop Apps With Appium](https://appiumpro.com/editions/81)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
