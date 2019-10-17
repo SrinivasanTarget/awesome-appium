@@ -125,6 +125,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Converting Java Tests to Kotlin](https://appiumpro.com/editions/79)
 - [Testing iOS Face ID with Appium](https://appiumpro.com/editions/80)
 - [Testing Windows Desktop Apps With Appium](https://appiumpro.com/editions/81)
+- [Streaming Video from iOS Devices](https://appiumpro.com/editions/82)
+- [Speeding Up Android Screenshots With MJPEG Servers](https://appiumpro.com/editions/83)
+- [Reliably Opening Deep Links Across Platforms and Devices](https://appiumpro.com/editions/84)
+- [Batching Appium Commands Using Execute Driver Script to Speed Up Tests](https://appiumpro.com/editions/85)
+- [Connecting Directly to Appium Hosts in Distributed Environments](https://appiumpro.com/editions/86)
+- [Working With Android 10](https://appiumpro.com/editions/87)
+- [Saving Test Data To Make Debugging Easier Java](https://appiumpro.com/editions/88)
+- [Understanding Appium Drivers (And How To Choose Which One To Use)](https://appiumpro.com/editions/89)
+- [Optimizing Image Element Thresholds](https://appiumpro.com/editions/90)
+- [Getting Started With Appium For Android On Windows](https://appiumpro.com/editions/91)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
