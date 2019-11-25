@@ -135,6 +135,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Understanding Appium Drivers (And How To Choose Which One To Use)](https://appiumpro.com/editions/89)
 - [Optimizing Image Element Thresholds](https://appiumpro.com/editions/90)
 - [Getting Started With Appium For Android On Windows](https://appiumpro.com/editions/91)
+- [Using AI-based Object Detection For Finding Elements](https://appiumpro.com/editions/92)
+- [Managing Chromedriver for Android Chrome and Webview Testing](https://appiumpro.com/editions/93)
+- [Using the Appium Events API](https://appiumpro.com/editions/94)
+- [The 'Android Data Matcher' Locator Strategy](https://appiumpro.com/editions/95)
+- [Working With Cookies](https://appiumpro.com/editions/96)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
