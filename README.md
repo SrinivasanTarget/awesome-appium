@@ -140,6 +140,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Using the Appium Events API](https://appiumpro.com/editions/94)
 - [The 'Android Data Matcher' Locator Strategy](https://appiumpro.com/editions/95)
 - [Working With Cookies](https://appiumpro.com/editions/96)
+- [Capturing App Launch Metrics On Android](https://appiumpro.com/editions/97)
+- [Visual Testing With Appium, Part 1](https://appiumpro.com/editions/98)
+- [Visual Testing With Appium, Part 2](https://appiumpro.com/editions/99)
+- [Visual Testing With Appium, Part 3](https://appiumpro.com/editions/100)
+- [AI for Appium--and Selenium!](https://appiumpro.com/editions/101)
+- [Mobile App Performance Testing](https://appiumpro.com/editions/102)
+- [Free Tools For Mobile App Performance Testing With Appium](https://appiumpro.com/editions/103)
+- [Simulating Different Network Conditions For Virtual Devices](https://appiumpro.com/editions/104)
+- [Paid Tools And Services For Mobile App Performance Testing](https://appiumpro.com/editions/105)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
