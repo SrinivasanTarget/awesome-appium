@@ -193,6 +193,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appium Docker Images](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android.
 - [Appium Docker File](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android.
 - [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
+- [TestingBot](https://testingbot.com) - Cloud based Device Farm, run Appium tests on physical Android and iOS devices.
 
 ## Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans.
