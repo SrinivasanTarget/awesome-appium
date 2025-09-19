@@ -206,6 +206,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Optimus](https://github.com/testvagrant/optimusTemplate) - Cucumber based Mobile Automation Framework, which supports test parallelization.
 - [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly.
 - [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
+- [Shadowstep](https://github.com/molokov-klim/Appium-Python-Client-Shadowstep) - Auto-generated Page Objects, graph-based navigation, lazy element loading, dict-based locators, DSL assertions, remote adb command, ...
 
 ## Community
 - [Discuss](https://discuss.appium.io)
