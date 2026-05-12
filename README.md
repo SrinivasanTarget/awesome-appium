@@ -20,6 +20,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cloud and Docker Solutions](#cloud-and-docker-solutions)
 - [Git Books](#git-books)
 - [Test Frameworks](#test-frameworks)
+- [Sample Apps for Practice](#sample-apps-for-practice)
 - [Community](#community)
 - [Tips](#tips)
 
@@ -206,6 +207,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Optimus](https://github.com/testvagrant/optimusTemplate) - Cucumber based Mobile Automation Framework, which supports test parallelization.
 - [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly.
 - [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
+
+## Sample Apps for Practice
+
+Real world style mobile apps designed as practice surfaces for learning Appium and other mobile automation tools.
+
+- [FrontRow](https://github.com/majdukovic/frontrow) - Open source React Native concert ticketing app built specifically as a QA automation training surface. Ships Appium WebdriverIO and TypeScript scaffolds with full WDIO configs for iOS and Android, smoke and login specs, and a central testID registry that maps to accessibility identifiers on both platforms. Includes a QA Debug Menu with force error modes, time travel, and deterministic IAP outcomes for practising failure mode testing.
 
 ## Community
 - [Discuss](https://discuss.appium.io)
