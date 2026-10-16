@@ -21,6 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cloud](#cloud)
 - [Git Books](#git-books)
 - [Test Frameworks](#test-frameworks)
+- [Sample Apps for Practice](#sample-apps-for-practice)
 - [Community](#community)
 - [Tips](#tips)
 
@@ -211,6 +212,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly.
 - [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
 - [zosma-qa](https://github.com/zosmaai/zosma-qa) - Unified QA platform with one CLI for Appium mobile testing, Playwright web E2E, and k6 load tests — includes zero-config scaffolding, WebdriverIO test helpers, and AI agents that autonomously plan, generate, and self-heal your test suites.
+
+## Sample Apps for Practice
+
+Real world style mobile apps designed as practice surfaces for learning Appium and other mobile automation tools.
+
+- [FrontRow](https://github.com/majdukovic/frontrow) - Open source React Native concert ticketing app built specifically as a QA automation training surface. Ships Appium WebdriverIO and TypeScript scaffolds with full WDIO configs for iOS and Android, smoke and login specs, and a central testID registry that maps to accessibility identifiers on both platforms. Includes a QA Debug Menu with force error modes, time travel, and deterministic IAP outcomes for practising failure mode testing.
 
 ## Community
 - [Discuss](https://discuss.appium.io)
