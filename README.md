@@ -18,6 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Blogs](#blogs)
 - [Workshops](#workshops)
 - [Cloud and Docker Solutions](#cloud-and-docker-solutions)
+- [Cloud](#cloud)
 - [Git Books](#git-books)
 - [Test Frameworks](#test-frameworks)
 - [Community](#community)
@@ -194,6 +195,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appium Docker File](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android.
 - [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
 - [TestingBot](https://testingbot.com) - Cloud based Device Farm, run Appium tests on physical Android and iOS devices.
+
+## Cloud
+- [TestMu AI](https://www.testmuai.com/lambdatest-appium/) - AI-native cloud testing platform (formerly LambdaTest), run Appium tests in parallel on real Android and iOS devices.
 
 ## Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans.
