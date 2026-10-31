@@ -183,6 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [IMAGE RECOGNITION WITH APPIUM](http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/) - USING APPIUM FOR MOBILE GAME TESTING
  - [Uncover invisible changes in automated tests](https://sourcediving.com/how-to-uncover-invisible-changes-in-automated-tests-b6a5dbff564e) - By KazuCocoa
   - [Adding AI to Appium](https://medium.com/testdotai/adding-ai-to-appium-f8db38ea4fac) - By test.ai
+ - [Appium MCP Setup for Coding Agents](https://momentic.ai/blog/mobile-mcp-server-setup) - Configuring Appium MCP in Claude Code, Cursor and Codex, the drivers and toolchains it needs, and how it compares with Maestro MCP and mobile-mcp.
  
 
 ## Workshops
