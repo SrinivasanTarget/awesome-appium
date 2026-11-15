@@ -198,6 +198,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [TestingBot](https://testingbot.com) - Cloud based Device Farm, run Appium tests on physical Android and iOS devices.
 
 ## Cloud
+- [BenchFleet](https://benchfleet.com) - Android phones in the cloud billed by the minute, plus a Hub for your own phones; a GitHub Action starts a phone, installs your APKs and runs tests.
 - [TestMu AI](https://www.testmuai.com/lambdatest-appium/) - AI-native cloud testing platform (formerly LambdaTest), run Appium tests in parallel on real Android and iOS devices.
 
 ## Git Books
