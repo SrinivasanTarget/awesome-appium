@@ -213,6 +213,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Optimus](https://github.com/testvagrant/optimusTemplate) - Cucumber based Mobile Automation Framework, which supports test parallelization.
 - [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly.
 - [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
+- [Ghost in the Droid](https://github.com/ghost-in-the-droid/android-agent) - Python MCP server with 66 tools that lets AI agents drive real Android and iOS devices via ADB and WebDriverAgent, plus a hub of 117 replayable app skills. A complementary MCP/ADB-based approach to Appium's WebDriver layer. `pip install ghost-in-the-droid`
 - [zosma-qa](https://github.com/zosmaai/zosma-qa) - Unified QA platform with one CLI for Appium mobile testing, Playwright web E2E, and k6 load tests — includes zero-config scaffolding, WebdriverIO test helpers, and AI agents that autonomously plan, generate, and self-heal your test suites.
 
 ## Sample Apps for Practice
